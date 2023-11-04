@@ -1,3 +1,5 @@
-# weather_app_youtube
+# weather_app
 
-A new Flutter project.
+A weather app made for Mobile Application development project.
+Written in flutter and uses geolocator api for getting device gps info.
+Uses the openweather API for checking weather
